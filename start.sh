@@ -1,10 +1,10 @@
 #!/bin/sh
 
 # configs
-AUUID=813c7144-9f76-4151-979e-692668d8f0e7
-CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
-CONFIGCADDY=https://raw.githubusercontent.com/kaiedkf23/task/master/etc/Caddyfile
-CONFIGXRAY=https://raw.githubusercontent.com/kaiedkf23/task/master/etc/xray.json
+AUUID=012e600d-d880-42f6-84ca-1ded41dc6cd0
+CADDYIndexPage=https://github.com/ooppe/Heet/master.zip
+CONFIGCADDY=https://raw.githubusercontent.com/ooppe/Heet/master/etc/Caddyfile
+CONFIGXRAY=https://raw.githubusercontent.com/ooppe/Heet/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
 StoreFiles=https://raw.githubusercontent.com/kaiedkf23/task/master/etc/StoreFiles
 #PORT=4433
